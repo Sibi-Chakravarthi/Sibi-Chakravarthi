@@ -1,4 +1,4 @@
-# 0xSIBI > System Architect & AI/DS Undergraduate 🛰️
+# Sibi Chakravarthi > AI/DS Undergraduate 🛰️
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=00FF41&height=200&section=header&text=ROOT@SIBI:~%20$&fontSize=70&fontAlignY=55&animation=twinkling&theme=terminal" />
@@ -15,10 +15,6 @@
 #### [Local_AI_Lab]
 - Experimenting with agentic automation and hardware-efficient model loading.
 - Running local LLMs via **Ollama** and **LiteLLM**.
-
----
-
-### 💻 SYSTEM_SPECS (Hardware & Environment)
 
 ---
 
