@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://crafatar.com/renders/body/e29019c6-f718-4cf4-b03a-7233c736eb0a" alt="Banner Image" width="600" />
+  <img src="itsalister_-avatar-4096.png" alt="Banner Image" width="600" />
   
   <h1>Sibi Chakravarthi</h1>
 
