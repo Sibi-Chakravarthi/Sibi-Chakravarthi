@@ -48,8 +48,8 @@ Hi, I'm Sibi. I build things that sit somewhere between AI, low-level systems en
 
 <div align="center">
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibi-Chakravarthi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
   <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibi-Chakravarthi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
